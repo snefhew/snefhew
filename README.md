@@ -1,6 +1,3 @@
-# Matthew Sammels
-
-Student Smart Media Production aan de Hogeschool van Amsterdam. Ik ontwerp hoe systemen in elkaar zitten en bouw ze met AI coding tools.
 
 ## Projecten
 
